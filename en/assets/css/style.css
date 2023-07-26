@@ -5266,7 +5266,7 @@ h3 span {
 }
 
 .home-slider .slide-item .slide-content>p.short-desc {
-    max-width: 60%;
+    max-width: 50%;
 }
 
 @media (max-width: 575px) {
@@ -5276,7 +5276,7 @@ h3 span {
 }
 
 .home-slider .slide-item .slide-content>p.short-desc-2 {
-    max-width: 100%;
+    max-width: 50%;
 }
 
 @media (max-width: 575px) {
